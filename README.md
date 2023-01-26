@@ -75,7 +75,7 @@ anidb：https://anidb.net/ （国外动漫论坛，要翻墙,要注册号而且�
 茉茉大佬整理的里番目录：https://bgm.tv/blog/286840 （要有一定的等级才能进这些链接)  
 断固非難大佬整理的里番目录:https://github.com/wotupset/jphanime_data （准确性一般，老番年份不怎么准确，不过胜在更新频率高）  
 正大xdjj:https://ztxdjj.github.io/me/ （在线看里番的网站，算是在线看里番的网站里资源最多的了,要翻墙)  
-hanime1:https://hanime1.me/watch?v=12456 （比较普通的在线看里番的网站，不冷门的里番在这里基本都能找到，大部分都有内嵌字幕)  
+hanime1:https://hanime1.me （比较普通的在线看里番的网站，不冷门的里番在这里基本都能找到，大部分都有内嵌字幕)  
 互联网博物馆:https://archive.org/ (神器，使用方法请自行百度)    
 美少女アニメ大全集：https://drive.google.com/drive/folders/1xeyc5TbpbVdrkqvIU0gdEplQCxRiCfgX?usp=sharing  
                                  12f53781c8a28f7ff6cb92955291f3a0#96797230#美少女目录7z（解压密码:叹息的德尔泽海尔，百度云秒传)  
