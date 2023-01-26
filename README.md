@@ -2,11 +2,10 @@
 +
 
 
-
-
-
-
 裏番目錄(日本のアダルトアニメ一覧)
+
+
+
 
 
 
@@ -43,8 +42,8 @@ A:对考古党和收集资源然后发合集的哥们有用，比如对bg一些�
 或者直接去视频结尾找;对收集资源的，可以直接通过筛选来找某个社有多少番，然后复制名字去找番收集起来然后发布去论坛。
 
 Q:这些目录的资源去哪找?
-A:这里我推荐两个合集，南+号角压制的1969-2021合集：https://www.south-plus.net/read.php?tid-1241345.html（请自行注册登录用sp购买资源，sp可签到获得)
-                                     动漫文化黑历史合集:https://sukebei.nyaa.si/?f=0&c=0_0&q=Anime+Culture+Black+History+Repack（目前最全的合集，大部分为原盘，所以体积也是巨大，建议准备好大容量硬盘）
+A:这里我推荐两个合集，南+号角压制的1969-2021合集：https://www.south-plus.net/read.php?tid-1241345.html （请自行注册登录用sp购买资源，sp可签到获得)
+                                     动漫文化黑历史合集:https://sukebei.nyaa.si/?f=0&c=0_0&q=Anime+Culture+Black+History+Repack （目前最全的合集，大部分为原盘，所以体积也是巨大，建议准备好大容量硬盘）
 
 Q:这目录是否绝对正确和完整?
 A:不是绝对正确，也就比其他目录正确率和完整性高一点。想要做到绝对正确和完整性只能靠专业的团队去日本那边考古。
@@ -70,17 +69,17 @@ r15番官网:https://docs.google.com/document/d/1xgkyrR_yPevdNDJ2--bsw90opmKGAm3
 
 
 链接区
-bg：https://bgm.tv/（国内动漫论坛，搜索成人动画要一定的等级才能搜到，一般注册完号要等2到3个月才能搜索的出里番）
-myanimelist：https://myanimelist.net/（国外动漫论坛，要翻墙,优势是不用注册号就能搜索里番，而且直接用作品英文名和日名就能直接搜到番了）
-animenewsnetwork：https://myanimelist.net/https://www.animenewsnetwork.com/：（国外动漫百科全书，要翻墙,优势是不用注册号就能搜索里番，而且信息也比上面的论坛多，但没啥评论）
-anidb：https://anidb.net/（国外动漫论坛，要翻墙,要注册号而且要18岁才能搜到里番（可以注册时设定好），这论坛在找番的日期上比较方便，也很准确。在搜索时要用作品罗马名字才能搜索到番，个人建议先去myanimelist用作品日名搜番，搜到后再找链接跳转到这里.animenewsnetwork也
+bg：https://bgm.tv/ （国内动漫论坛，搜索成人动画要一定的等级才能搜到，一般注册完号要等2到3个月才能搜索的出里番）
+myanimelist：https://myanimelist.net/ （国外动漫论坛，要翻墙,优势是不用注册号就能搜索里番，而且直接用作品英文名和日名就能直接搜到番了）
+animenewsnetwork：https://myanimelist.net/https://www.animenewsnetwork.com/ （国外动漫百科全书，要翻墙,优势是不用注册号就能搜索里番，而且信息也比上面的论坛多，但没啥评论）
+anidb：https://anidb.net/ （国外动漫论坛，要翻墙,要注册号而且要18岁才能搜到里番（可以注册时设定好），这论坛在找番的日期上比较方便，也很准确。在搜索时要用作品罗马名字才能搜索到番，个人建议先去myanimelist用作品日名搜番，搜到后再找链接跳转到这里.animenewsnetwork也
 同理，毕竟这直接搜也不好搜索的到还得去myanimelist搜索然后跳转)
-维基百科的里番目录:https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%82%A2%E3%83%8B%E3%83%A1%E4%B8%80%E8%A6%A7（目前相对权威的目录，很多作品和制作社都有超链接)
-茉茉大佬整理的里番目录：https://bgm.tv/blog/286840（要有一定的等级才能进这些链接)
-断固非難大佬整理的里番目录:https://github.com/wotupset/jphanime_data（准确性一般，老番年份不怎么准确，不过胜在更新频率高）
-正大xdjj:https://ztxdjj.github.io/me/（在线看里番的网站，算是在线看里番的网站里资源最多的了,要翻墙)
-hanime1:https://hanime1.me/watch?v=12456（比较普通的在线看里番的网站，不冷门的里番在这里基本都能找到，大部分都有内嵌字幕)
-互联网博物馆:https://archive.org/(神器，使用方法请自行百度)
+维基百科的里番目录:https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%82%A2%E3%83%8B%E3%83%A1%E4%B8%80%E8%A6%A7 （目前相对权威的目录，很多作品和制作社都有超链接)
+茉茉大佬整理的里番目录：https://bgm.tv/blog/286840 （要有一定的等级才能进这些链接)
+断固非難大佬整理的里番目录:https://github.com/wotupset/jphanime_data （准确性一般，老番年份不怎么准确，不过胜在更新频率高）
+正大xdjj:https://ztxdjj.github.io/me/ （在线看里番的网站，算是在线看里番的网站里资源最多的了,要翻墙)
+hanime1:https://hanime1.me/watch?v=12456 （比较普通的在线看里番的网站，不冷门的里番在这里基本都能找到，大部分都有内嵌字幕)
+互联网博物馆:https://archive.org/ (神器，使用方法请自行百度)
 美少女アニメ大全集：https://drive.google.com/drive/folders/1xeyc5TbpbVdrkqvIU0gdEplQCxRiCfgX?usp=sharing
                                  12f53781c8a28f7ff6cb92955291f3a0#96797230#美少女目录7z（解压密码:叹息的德尔泽海尔，百度云秒传)
 
