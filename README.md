@@ -69,7 +69,7 @@ r15番官网:https://docs.google.com/document/d/1xgkyrR_yPevdNDJ2--bsw90opmKGAm3
 链接区  
 bg：https://bgm.tv/ （国内动漫论坛，搜索成人动画要一定的等级才能搜到，一般注册完号要等2到3个月才能搜索的出里番）  
 myanimelist：https://myanimelist.net/ （国外动漫论坛，要翻墙,优势是不用注册号就能搜索里番，而且直接用作品英文名和日名就能直接搜到番了）  
-animenewsnetwork：https://myanimelist.net/https://www.animenewsnetwork.com/ （国外动漫百科全书，要翻墙,优势是不用注册号就能搜索里番，而且信息也比上面的论坛多，但没啥评论）  
+animenewsnetwork：https://myanimelist.net/https://www.animenewsnetwork.com （国外动漫百科全书，要翻墙,优势是不用注册号就能搜索里番，而且信息也比上面的论坛多，但没啥评论）  
 anidb：https://anidb.net/ （国外动漫论坛，要翻墙,要注册号而且要18岁才能搜到里番（可以注册时设定好），这论坛在找番的日期上比较方便，也很准确。在搜索时要用作品罗马名字才能搜索到番，个人建议先去myanimelist用作品日名搜番，搜到后再找链接跳转到这里.animenewsnetwork也同理，毕竟这直接搜也不好搜索的到还得去myanimelist搜索然后跳转)    
 维基百科的里番目录： https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%82%A2%E3%83%8B%E3%83%A1%E4%B8%80%E8%A6%A7 （目前相对权威的目录，很多作品和制作社都有超链接)  
 茉茉大佬整理的里番目录：https://bgm.tv/blog/286840 （要有一定的等级才能进这些链接)  
