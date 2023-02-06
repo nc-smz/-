@@ -69,6 +69,7 @@ A:如果有评论或者私信我提出目录某些地方的错误我会改，但
 2.白金目录:https://docs.google.com/spreadsheets/d/1ky4UyNYpVdcD9BX4Y5rzllJvYExQekIMsAIbLs4vIYM/edit?usp=sharing  
 3.r18番官网:https://docs.google.com/document/d/1_PC7D8kmbOLF-bU_secL7uVkvZVP9YerPVre9dZPa6Q/edit?usp=sharing  
 4.r15番官网:https://docs.google.com/document/d/1xgkyrR_yPevdNDJ2--bsw90opmKGAm3NHeHBIMGHaqk/edit?usp=sharing  
+5.目录使用方法其一，如何利用目录去收集制作社的合集并发布(学会自己当):https://drive.google.com/file/d/1gCF1jr6aEZaJOmjA07qVrsZ_mlXDtdfI/view?usp=share_link
 
 
  
@@ -84,7 +85,9 @@ A:如果有评论或者私信我提出目录某些地方的错误我会改，但
 9.hanime1:https://hanime1.me （比较普通的在线看里番的网站，不冷门的里番在这里基本都能找到，大部分都有内嵌字幕)  
 10.互联网博物馆:https://archive.org/ (神器，使用方法请自行百度)    
 11.美少女アニメ大全集：https://drive.google.com/drive/folders/1xeyc5TbpbVdrkqvIU0gdEplQCxRiCfgX?usp=sharing  
-                                 12f53781c8a28f7ff6cb92955291f3a0#96797230#美少女目录7z（解压密码:叹息的德尔泽海尔，百度云秒传)  
+                                 12f53781c8a28f7ff6cb92955291f3a0#96797230#美少女目录7z（解压密码:叹息的德尔泽海尔，百度云秒传)    
+12.便宜与免费机场推荐:https://drive.google.com/file/d/1mrphbJNkoj7mb2zo7iPtQwy7d5pZsC7_/view?usp=sharing  
+13.Bangumi动画搜索 跳转AniDB/MyAnimeList/ANN/TMDB和动漫花园等BT站/在线播放站一键跳转:https://greasyfork.org/zh-CN/scripts/405283-bangumi%E5%8A%A8%E7%94%BB%E6%90%9C%E7%B4%A2-%E8%B7%B3%E8%BD%ACanidb-myanimelist-ann-tmdb%E5%92%8C%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%E7%AD%89bt%E7%AB%99-%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E7%AB%99%E4%B8%80%E9%94%AE%E8%B7%B3%E8%BD%AC-2020%E5%B9%B46%E6%9C%8813%E6%97%A5  (油猴脚本)
 
 个人感言(废话)
 整这目录差不多也有一年了，起端只是想整理点制作社的合集发去论坛赚币，后来阴差阳错的整了这目录出来，一路上也走了不少弯路，全靠爱好坚持了下来，本来还想慢慢整的，不过由于要和生活对线了,就趁着过年有空把这目录整完了，虽然说还不算完美，但该做的都做了，至于这目录有多少人看我倒是不在乎，本来就是极少人会对这方面有兴趣的，只要有人能用的上我整的东西，我就很开心了。  
