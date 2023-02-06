@@ -69,7 +69,7 @@ A:如果有评论或者私信我提出目录某些地方的错误我会改，但
 2.白金目录:https://docs.google.com/spreadsheets/d/1ky4UyNYpVdcD9BX4Y5rzllJvYExQekIMsAIbLs4vIYM/edit?usp=sharing  
 3.r18番官网:https://docs.google.com/document/d/1_PC7D8kmbOLF-bU_secL7uVkvZVP9YerPVre9dZPa6Q/edit?usp=sharing  
 4.r15番官网:https://docs.google.com/document/d/1xgkyrR_yPevdNDJ2--bsw90opmKGAm3NHeHBIMGHaqk/edit?usp=sharing  
-5.目录使用方法其一，如何利用目录去收集制作社的合集并发布(学会自己当):https://drive.google.com/file/d/1gCF1jr6aEZaJOmjA07qVrsZ_mlXDtdfI/view?usp=share_link
+5.目录使用方法其一，如何利用目录去收集制作社的合集并发布(学会自己当hero):https://drive.google.com/file/d/1gCF1jr6aEZaJOmjA07qVrsZ_mlXDtdfI/view?usp=share_link
 
 
  
